@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="TaskManagerNewVersion">
+    <output-path>$PROJECT_DIR$/out/artifacts/TaskManagerNewVersion</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.rambler.HelloApplication" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="TaskManagerNewVersion.jar">
+        <element id="module-output" name="TaskManagerNewVersion" />
+      </element>
+      <element id="library" level="project" name="Maven: junit:junit:4.13.2" />
+      <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.2" />
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-api:5.9.1" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.9.1" />
+      <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.9.1" />
+      <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-engine:1.9.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:19" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:19" />
+      <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.2.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:6.0.9" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:6.0.9" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:6.0.9" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:6.0.9" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:6.0.9" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-jcl:6.0.9" />
+    </root>
+  </artifact>
+</component>
